@@ -1,0 +1,32 @@
+.form{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 200px;
+}
+.form input {
+    padding: 20px; 
+    width: 200px;
+}
+.form button{
+    padding: 20px;
+    width: 100px;
+    background-color: black;
+    color: #fff;
+    border-radius: 20px;
+}
+.result{
+    position: relative;
+    top: 200px;
+    left: 650px;
+    font-size: 2rem;
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.check{
+    font-size: 2rem;
+    text-align: center;
+    color: darkcyan;
+}
